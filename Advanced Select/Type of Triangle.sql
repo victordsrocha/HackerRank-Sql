@@ -1,4 +1,5 @@
 -- https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
+-- MS SQL SERVER
 
 SELECT CASE
     WHEN A + B <= C OR A + C <= B OR B + C <= A THEN 'Not A Triangle'
