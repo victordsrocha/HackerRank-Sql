@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/the-pads
 -- MS SQL SERVER
 
 SELECT CONCAT(Name, '(', LEFT(Occupation, 1), ')') 

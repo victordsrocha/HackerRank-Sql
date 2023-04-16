@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/what-type-of-triangle
 -- MS SQL SERVER
 
 SELECT CASE
