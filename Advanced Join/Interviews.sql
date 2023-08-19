@@ -1,3 +1,6 @@
+-- https://www.hackerrank.com/challenges/interviews
+-- MS SQL SERVER
+
 WITH Stats AS (
     SELECT
         COALESCE(vs.challenge_id, ss.challenge_id) AS challenge_id,
